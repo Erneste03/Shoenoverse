@@ -300,7 +300,7 @@ body {
 
 .latestnews {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  background-image: url(images/camo.jpeg);
+  background-image: url(images/Camo.jpeg);
   background-size: 261px;
   animation: moveIt 20s linear infinite;
   color: white;
